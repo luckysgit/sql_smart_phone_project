@@ -57,5 +57,5 @@ Explore various aspects of the smartphone data:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/smart-phone-analysis.git
+   git clone https://github.com/luckysgit/smart-phone-analysis.git
    cd smart-phone-analysis
