@@ -4,7 +4,10 @@
 This project provides SQL-based data cleaning and exploratory analysis on a smartphone specifications dataset. It is designed for data engineering or data analytics learners who want hands-on experience with querying real-world structured data.
 
 ---
+## Dataset
+https://www.kaggle.com/datasets/chaudharisanika/smartphones-dataset/data
 
+---
 ## 📂 Project Structure
 
 - `SmartPhone_Documentation.docx` - A Word document containing:
